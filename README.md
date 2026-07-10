@@ -179,17 +179,6 @@ Verify DNS:
 nslookup upload.neostrack.com
 ```
 
-## Roadmap
-
--   Strava sync
--   Garmin Connect
--   Komoot
--   Multi-user
--   Multi-device
--   Admin dashboard
--   Metrics
--   OTA support
-
 ## License
 
 MIT
